@@ -1,0 +1,204 @@
+.principal{
+    position: absolute;
+    width: 1440px;
+    height: 2212px;
+    left: 0px;
+    top: 0px;
+    overflow-y: scroll;
+    background: #F0F0F0;
+    }
+    
+.header-1{
+    position: absolute;
+    width: 860px;
+    height: 1467px;
+    left: 291px;
+    top: 60px;
+    background: #FFFFFF;
+    border-radius: 12px;
+}
+
+.header-2{
+    position: absolute;
+    width: 860px;
+    height: 1260px;
+    left: 291px;
+    top: 60px;
+    background: #FFFFFF;
+    border-radius: 12px;
+}
+
+h1{
+    position: absolute;
+    width: 500px;
+    height: 37px;
+    left: 60px;
+    top: 40px;
+    
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #1B50B6;
+    }
+
+.h1-1{
+    position: absolute;
+    width: 541px;
+    height: 55px;
+    left:px;
+    top: 116px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+    color: #222222;
+}
+
+.h2-1{
+    position: absolute;
+    width: 351px;
+    height: 28px;
+    left: 60px;
+    top: 120px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #222222;
+}
+
+.h2-2{
+    position: relative;
+    width: 351px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #222222;
+}
+
+.h2-3{
+    position: absolute;
+    width: 546px;
+    height: 28px;
+    left: 60px;
+    top: 207px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #222222
+}
+
+.h3{
+    position: absolute;
+    width: 469px;
+    height: 18px;
+    left: 228px;
+    top: 1172px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: #222222;
+}
+
+.separador-1{
+    
+    position: absolute;
+    width: 618px;
+    height: 4px;
+    left: 60px;
+    top: 95px;
+    
+    background: #1B50B6;
+}
+
+.separador-2{
+    width: 616px;
+    height: 1px;
+    left: 0px;
+    top: 444px;
+    background: #C4C4C4;
+}
+
+.perguntas{
+    position: absolute;
+    width: 400px;
+    height: 18px;
+    left: 60px;
+    top: 177px;
+    
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #222222;
+}
+
+.button-1{
+    position: absolute;
+    width: 235px;
+    height: 56px;
+    left: 315px;
+    top: 1090px;
+    background: #FFFFFF;
+    border: 1px solid #1B50B6;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.button-2{
+    position: absolute;
+    width: 235px;
+    height: 56px;
+    left: 562px;
+    top: 1356px;
+    color: #FFFFFF;
+    background: #1B50B6;
+    border-radius: 8px;
+}
+
+.button-3{
+    position: absolute;
+    width: 100;
+    left: 429px;
+    top: 1375px;
+    font-family: Ubuntu;
+    color: #1B50B6;
+    background-color: #FFFFFF;
+}
+
+.grafico{
+    position: relative;
+    left: 300px;
+    top: 350px;
+    width: 800px;
+    height: 500px;
+}
+
+.matematica{
+    color: red;
+    
+}
+  
+.historia{
+    color: red;
+    
+}
+.geografia{
+    color: red;
+    
+}
